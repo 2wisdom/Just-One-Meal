@@ -1,8 +1,7 @@
 import axios from "axios";
 
 const backendPortNumber = "5000";
-const serverUrl =
-  "http://" + window.location.hostname + ":" + backendPortNumber + "/";
+const serverUrl = "https://just-one-meal-back.vercel.app/";
 
 async function get(endpoint, params = "") {
   console.log(
