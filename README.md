@@ -57,22 +57,21 @@
 
 <br>
  
-  - #### 비건 레시피 <br><br>
+  - #### 메인 페이지 <br><br>
 
-  
-  ![recipe](https://kdt-gitlab.elice.io/ai_track/class05/data_project/team11/uploads/329cb24174c5a655574defaa55503dd0/recipe.JPG)
+     <img src="https://user-images.githubusercontent.com/100846243/216641952-ca9ddb67-1139-4c74-8a43-08e6ecf4c57f.gif" />
 
 <br><br>
 
   - #### 레시피 스크랩 기능 <br><br>
 
- ![scrap](https://kdt-gitlab.elice.io/ai_track/class05/data_project/team11/uploads/4ac1ced997b689115993c4d8957a6aea/scrap.JPG)
+    <img src="https://user-images.githubusercontent.com/100846243/216641942-a42ddf91-5bdc-424e-b462-0a19980c1339.gif" />
 
 <br><br>
 
-  - #### 재료별 검색 기능 <br><br>
+  - #### 비건 레시피와 재료별 검색 기능 <br><br>
 
-  ![filter](https://kdt-gitlab.elice.io/ai_track/class05/data_project/team11/uploads/236e4502ab5a6e4093d06f6c6ca80c76/filter.JPG)
+    <img src="https://user-images.githubusercontent.com/100846243/216641959-66681a23-d033-4663-9df6-477a6a266a91.gif" />
 
 <br>
 <br>
